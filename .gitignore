@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env.*.local
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders/files
+.idea/
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# PM2 logs and dumps
+pids/
+*.pid
+*.log
+*.gz
+dump.rdb
+
+# Misc
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+config.bat
